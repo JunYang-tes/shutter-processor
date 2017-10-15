@@ -1,0 +1,8 @@
+processorsInfo:
+  js.shutter.range:
+    text: range [--delay seconds], Capture a range
+  js.shutter.full:
+    text: full [--delay seconds], Capture the entire scree
+  js.shutter.window:
+    text: window [--delay seconds],Capture a window
+    
